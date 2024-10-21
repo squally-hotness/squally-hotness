@@ -1,6 +1,14 @@
 # 💫 About Me:
-Welcome to My GitHub Profile! 👨‍💻<br>Berthy Perez Lases | Rust Developer & Blockchain Engineer<br><br>With over 7 years of experience in the crypto industry and a strong foundation in marketing and leadership, I specialize in building secure, scalable blockchain solutions. My journey spans roles such as Rust Software Engineer, Chief Marketing Officer, and Project Lead—blending technical proficiency with strategic business acumen.<br><br>🔭 Currently Developing: A custom Rust-based blockchain protocol, focusing on cross-chain interoperability and DeFi applications.<br>🌐 Previous Roles: Rust Developer at Neural Nexus Global, CMO at Crezu, and content strategist for fintech and blockchain startups.<br>🌱 Current Focus: ZK-SNARKs, Multi-Party Computation (MPC), and cryptographic resilience against quantum computing.<br>🎯 Background: Expertise in blockchain development, smart contract security, cryptography, and DeFi, alongside 7+ years in digital marketing and content strategy.
-English|Russian|Spanish|Portuguese
+Welcome to My GitHub Profile! 👨‍💻
+<br>Berthy Perez Lases | Rust Developer & Blockchain Engineer<be>
+<br>English | Russian | Spanish | Portuguese<be>
+
+<br>With over 7 years of experience in the crypto industry and a strong foundation in marketing and leadership, I specialize in building secure, scalable blockchain solutions. My journey spans roles such as Rust Software Engineer, Chief Marketing Officer, and Project Lead—blending technical proficiency with strategic business acumen.<br>
+<br>🔭 Currently Developing: A custom Rust-based blockchain protocol, focusing on cross-chain interoperability and DeFi applications.
+<br>🌐 Previous Roles: Rust Developer at Neural Nexus Global, Chief Content Officer at Crezu, and Project strategist for a DeFi stealth mode startup.
+<br>🌱 Current Focus: ZK-SNARKs, Multi-Party Computation (MPC), and cryptographic resilience against quantum computing.
+<br>🎯 Background: Expertise in blockchain development, smart contract security, cryptography, and DeFi, alongside 7+ years in digital marketing and content strategy.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@berthyprzl) 
