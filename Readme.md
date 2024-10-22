@@ -38,13 +38,6 @@ As a **Rust Developer** and **Blockchain Engineer** with over **7 years of exper
 
 ---
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=squally-hotness&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=squally-hotness&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=squally-hotness&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ### ✍️ Random Dev Quote:
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -53,5 +46,3 @@ As a **Rust Developer** and **Blockchain Engineer** with over **7 years of exper
 [![](https://visitcount.itsvg.in/api?id=squally-hotness&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
-## Let's get Rusty!
