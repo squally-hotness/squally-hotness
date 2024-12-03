@@ -4,7 +4,7 @@
 **Berthy Perez Lases | Rust Developer & Blockchain Engineer**  
 **Languages:** English | Russian | Spanish | Portuguese  
 
-As a **Rust Developer** and **Blockchain Engineer** with over **7 years of experience** in the **crypto & Blockchain** industry, I focus on building secure, scalable, and decentralized solutions. My background spans various roles, such as **Rust Software Engineer**, **Chief Marketing Officer**, and **Project Lead**, where I've combined technical expertise with leadership and business strategy.
+As a **Rust Developer** with over **7 years of experience** in the **crypto & Blockchain** industry, I focus on building secure, scalable, and decentralized solutions. My background spans various roles, such as **Rust Engineer**, **Chief Marketing Officer**, and **Business Development**, where I've combined technical expertise with leadership and business strategy.
 
 - 🔭 **Currently Developing:** A **Rust-based blockchain** protocol, focused on **cross-chain interoperability** and **DeFi applications**.
 - 🌐 **Previous Roles:** Rust Developer at **Neural Nexus Global**, Chief Content Officer at **Crezu**, and Project Strategist for a DeFi stealth-mode startup.
